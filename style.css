@@ -1,0 +1,41 @@
+p{
+    color:red;
+
+    font-size: 12pt;
+
+}
+
+body{
+
+    color:greenyellow;
+
+    background-color: black;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+img{
+
+    width: 400px;
+
+    border:10px;
+    border-color: blue;
+
+}
+
+div
+{
+
+    max-width: 700px;
+    margin:auto
+
+}
+
+.rubik-wet-paint-regular 
+{
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+} 
